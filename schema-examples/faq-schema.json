@@ -4,18 +4,83 @@
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Does this property have a private pool?",
-      "acceptedAnswer": {"@type": "Answer", "text": "Yes. The pool is heated and positioned on the ocean-facing deck."}
+      "name": "How many guests can Branders sleep?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Eight guests across four bedrooms. Two have sea views; two open onto an internal courtyard."
+      }
     },
     {
       "@type": "Question",
-      "name": "How many guests can this property sleep?",
-      "acceptedAnswer": {"@type": "Answer", "text": "Eight guests across four bedrooms."}
+      "name": "Does Branders have a private pool?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. It is heated and positioned on the ocean-facing deck. The pool is not fenced and children should be supervised."
+      }
     },
     {
       "@type": "Question",
-      "name": "What is the minimum stay?",
-      "acceptedAnswer": {"@type": "Answer", "text": "Three nights outside of December and January. Five nights during peak season."}
+      "name": "Is there direct beach access from Branders?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The house sits above a rocky tidal shelf rather than a sandy beach. Lookout Beach is a six-minute drive. Robberg Beach is fifteen minutes."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the minimum stay at Branders?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Three nights outside of December and January. Five nights during peak season."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Branders suitable for young children?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, with supervision. The pool is unfenced and the cliff edge is unguarded. A travel cot and high chair can be arranged on request."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does Branders have Wi-Fi?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, fibre. Reliable enough for streaming and video calls. Signal is patchy on the terrace."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are pets allowed at Branders?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. Branders is a pet-free property."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Branders staffed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A housekeeper comes three mornings a week. Additional service can be arranged at extra cost."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What time is check-in and check-out at Branders?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Check-in from 15:00. Check-out by 10:00."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the nearest airport to Branders?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Plettenberg Bay Airport is twelve minutes by car. George Airport is fifty minutes."
+      }
     }
   ]
 }
