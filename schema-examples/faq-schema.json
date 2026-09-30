@@ -1,1 +1,21 @@
-
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Does this property have a private pool?",
+      "acceptedAnswer": {"@type": "Answer", "text": "Yes. The pool is heated and positioned on the ocean-facing deck."}
+    },
+    {
+      "@type": "Question",
+      "name": "How many guests can this property sleep?",
+      "acceptedAnswer": {"@type": "Answer", "text": "Eight guests across four bedrooms."}
+    },
+    {
+      "@type": "Question",
+      "name": "What is the minimum stay?",
+      "acceptedAnswer": {"@type": "Answer", "text": "Three nights outside of December and January. Five nights during peak season."}
+    }
+  ]
+}
