@@ -1,23 +1,54 @@
 {
   "@context": "https://schema.org",
   "@type": "VacationRental",
-  "name": "[Hideaway Name]",
-  "description": "[Specific, factual description]",
+  "additionalType": "HolidayVillageRental",
+  "brand": {
+    "@type": "Brand",
+    "name": "Perfect Hideaways"
+  },
+  "containsPlace": {
+    "@type": "Accommodation",
+    "additionalType": "EntirePlace",
+    "occupancy": {
+      "@type": "QuantitativeValue",
+      "value": 8,
+      "maxValue": 8
+    },
+    "amenityFeature": [
+      {"@type": "LocationFeatureSpecification", "name": "Private heated pool", "value": true},
+      {"@type": "LocationFeatureSpecification", "name": "Ocean view", "value": true},
+      {"@type": "LocationFeatureSpecification", "name": "Wood-burning fireplace", "value": true},
+      {"@type": "LocationFeatureSpecification", "name": "Outdoor shower", "value": true},
+      {"@type": "LocationFeatureSpecification", "name": "Fibre Wi-Fi", "value": true},
+      {"@type": "LocationFeatureSpecification", "name": "Housekeeping three days per week", "value": true}
+    ],
+    "numberOfBathroomsTotal": 3,
+    "numberOfBedrooms": 4,
+    "numberOfRooms": 4
+  },
+  "identifier": "branders-ph-2021",
+  "latitude": "-34.0527",
+  "longitude": "23.3716",
+  "name": "Branders",
   "address": {
     "@type": "PostalAddress",
+    "addressCountry": "ZA",
     "addressLocality": "Plettenberg Bay",
     "addressRegion": "Western Cape",
-    "addressCountry": "ZA"
+    "postalCode": "6600"
   },
-  "geo": {
-    "@type": "GeoCoordinates",
-    "latitude": "[latitude]",
-    "longitude": "[longitude]"
-  },
-  "amenityFeature": [
-    {"@type": "LocationFeatureSpecification", "name": "Private Pool", "value": true},
-    {"@type": "LocationFeatureSpecification", "name": "Ocean View", "value": true}
+  "image": [
+    "https://www.perfecthideaways.co.za/images/branders/image1.jpg",
+    "https://www.perfecthideaways.co.za/images/branders/image2.jpg",
+    "https://www.perfecthideaways.co.za/images/branders/image3.jpg",
+    "https://www.perfecthideaways.co.za/images/branders/image4.jpg",
+    "https://www.perfecthideaways.co.za/images/branders/image5.jpg",
+    "https://www.perfecthideaways.co.za/images/branders/image6.jpg",
+    "https://www.perfecthideaways.co.za/images/branders/image7.jpg",
+    "https://www.perfecthideaways.co.za/images/branders/image8.jpg"
   ],
-  "occupancy": {"@type": "QuantitativeValue", "maxValue": 8},
-  "priceRange": "R5000-R12000"
+  "checkinTime": "15:00",
+  "checkoutTime": "10:00",
+  "description": "Four-bedroom self-catering coastal villa in Plettenberg Bay, Western Cape, sleeping eight guests. Private heated pool, ocean views, wood-burning fireplace, outdoor shower, direct access to a rocky tidal shelf. Curated by Perfect Hideaways.",
+  "knowsLanguage": ["en-ZA"]
 }
