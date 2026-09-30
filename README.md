@@ -34,4 +34,4 @@ systems can see what human guests already feel.
 Aaqib Osman
 osmanaaqib@gmail.com
 +27 71 888 7966
-linkedin.com/in/aaqib-osman-aa69b4215# perfect-hideways-geo-audit
+linkedin.com/in/aaqib-osman-aa69b4215
