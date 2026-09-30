@@ -1,1 +1,23 @@
-
+{
+  "@context": "https://schema.org",
+  "@type": "VacationRental",
+  "name": "[Hideaway Name]",
+  "description": "[Specific, factual description]",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Plettenberg Bay",
+    "addressRegion": "Western Cape",
+    "addressCountry": "ZA"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "[latitude]",
+    "longitude": "[longitude]"
+  },
+  "amenityFeature": [
+    {"@type": "LocationFeatureSpecification", "name": "Private Pool", "value": true},
+    {"@type": "LocationFeatureSpecification", "name": "Ocean View", "value": true}
+  ],
+  "occupancy": {"@type": "QuantitativeValue", "maxValue": 8},
+  "priceRange": "R5000-R12000"
+}
