@@ -9,6 +9,8 @@ It was prepared as a demonstration of how I approach the problem of Generative E
 - **GEO-Audit-Perfect-Hideaways.pdf** — A controlled audit of six traveller queries across three AI platforms, with findings and a three-pillar strategy covering technical foundations, content restructuring, and measurement.
 - **Resource-1-The-Schema-Framework.pdf** — A visual, step-by-step masterclass on translating luxury brand prose into machine-readable JSON-LD facts without breaking the brand's human soul.
 - **Resource-2-The-60-Word-Rule.pdf** — An advanced copywriting framework breaking down Retrieval-Augmented Generation (RAG) chunking, context windows, and structural optimization for modern LLM discovery.
+- **Resource-3-The-Trust-Architecture.pdf** — An evidence-based field guide parsing how search systems weigh specific, verifiable language and structured data vs. unanchored marketing copy.
+- **Resource-4-The-Agentic-Funnel.pdf** — A structural technical roadmap outlining site optimization checklist criteria for autonomous AI user agents that browse, compare, and execute bookings.
 - **Sample-Hideaway-Page.pdf** — A sample hideaway page written in the format I would set as the editorial standard: a fact layer at the top for AI systems, the story underneath for humans, and a structured FAQ at the end.
 - **schema-examples/** — The JSON-LD schema blocks referenced in the audit, ready to implement directly on property pages and destination guides.
 
